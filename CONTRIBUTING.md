@@ -1,6 +1,7 @@
 # Contributing
 
-Your contributions are always welcome!
+Your contributions are always welcome!  
+Bitte sende eine e-Mail an: olaf.stagge@posteo.de  
 
 ## Guideline
 
